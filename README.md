@@ -1,2 +1,2 @@
 # hello-world
-This repository is practicing the GitHub Flow.
+I am a computer science major. I am wanting to secure a job in healthcare IT.
